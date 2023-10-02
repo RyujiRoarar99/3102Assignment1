@@ -339,7 +339,7 @@ complex:
     \ half-inning begins with the bases empty.\n\nAn individual player's turn batting\
     \ or plate appearance is complete when the player reaches base\n"]
 simple:
-  animal: "Cats use many different sounds for communication, including meowing, purring,\
+  ["Cats use many different sounds for communication, including meowing, purring,\
     \ trilling, hissing, growling, squeaking, chirping, clicking and grunting.\n\n\
     Body posture is also important. The whole shape of the body changes when a cat\
     \ is relaxed, or when it is alert. Also, the position of their ears and tail are\
@@ -411,7 +411,7 @@ simple:
     \ watch over it. The main problem is that it may easily get lost. In time, the\
     \ kit will learn every inch of the house and garden. Then, you can happily let\
     \ it roam.\n"
-  geography: "Plate tectonics is a theory of geology. It explains movement of the\
+  ,"Plate tectonics is a theory of geology. It explains movement of the\
     \ Earth's lithosphere: this is the earth's crust and the upper part of the mantle.\
     \ The lithosphere is divided into plates, some of which are very large and can\
     \ be entire continents.\n\nHeat from the mantle is the source of energy driving\
@@ -477,7 +477,7 @@ simple:
     \ tectonic activity.\n More movies over smaller regions and smaller time scales.\n\
     \ Easy-to-draw illustrations for teaching plate tectonics\n Map of tectonic plates\n\
     \ Plate tectonics -Citizendium\n"
-  history: "World War II (WWII or WW2) was a global war involving fighting in most\
+  ,"World War II (WWII or WW2) was a global war involving fighting in most\
     \ of the world and most countries. The war started in 1939 with Nazi Germany invading\
     \ Poland, so most countries fought from 1939 to 1945. However, Japan invaded China\
     \ in 1937, so some started fighting in 1937. Most of the world's countries, including\
@@ -546,7 +546,7 @@ simple:
     \ was signed in 1933. In 1936, the Kuomintang and the communists agreed to stop\
     \ fighting against each other and to fight Japan instead. In 1937, Japan started\
     \ the Second Sino-Japanese War to take the rest of China.\n"
-  science: "In biology, the cell is the basic structure of organisms. All cells are\
+  ,"In biology, the cell is the basic structure of organisms. All cells are\
     \ made by the division of other cells.\n\nThe environment outside the cell is\
     \ separated from the cytoplasm inside the cell by the cell membrane. Inside some\
     \ cells, parts of the cell stay separate from other parts. These separate parts\
@@ -615,7 +615,7 @@ simple:
     \ must replicate (copy) all its genetic information (DNA) so that each new cell\
     \ will have a copy.\n\nRelated pages \nCytology\nPlant cell\n\nReferences \n\n\
     \nPlant anatomy\n"
-  sport: "Baseball is a bat-and-ball sport played on a field by two teams against\
+  ,"Baseball is a bat-and-ball sport played on a field by two teams against\
     \ each other. In baseball, a player on one team throws a small round ball at a\
     \ player on the other team, who tries to hit it with a bat. Then the player who\
     \ hits the ball has to run around the field. Players get runs by running around\
@@ -684,4 +684,4 @@ simple:
     \ by \"forcing him out\" (when a base is touched before a player can get there,\
     \ with no base for the runner to go back to). When the fielding team has put out\
     \ three of the batting team's players, the half-inning is over and the team in\
-    \ the field and the team at bat switch places.\n"
+    \ the field and the team at bat switch places.\n"]
